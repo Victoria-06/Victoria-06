@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victoria Augustine
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Backend development using php
-- 💞️ I’m looking to collaborate on indrested web developers wordwide
+- 💞️ I’m looking to collaborate with intrested web developers wordwide
 - 📫 How to reach me Victoria-06
 
 <!---
